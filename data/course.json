@@ -1,0 +1,69 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Cell and Tissue Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Synthetic Biology"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ]
+  ],
+  "legacy_uid": "7e376d80-f076-49dd-cc15-27b273b9cb6e",
+  "instructors": {
+    "content": [
+      "78f9007b-7d5f-c435-6633-d21cc6174772"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "47f71938-3534-774a-fbb6-e713d168f146",
+    "website": "7-343-network-medicine-using-systems-biology-and-signaling-networks-to-create-novel-cancer-therapeutics-fall-2012"
+  },
+  "course_title": "Network Medicine: Using Systems Biology and Signaling Networks to Create Novel Cancer Therapeutics",
+  "course_description": "In this course, we will survey the primary systems biology literature, particularly as it pertains to understanding and treating various forms of cancer. We will consider various computational and experimental techniques being used in the field of systems biology, focusing on how systems principles have helped advance biological understanding. We will also discuss the application of the principles of systems biology and network biology to drug development, an emerging discipline called \"network medicine.\"\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.343",
+  "course_image_thumbnail": {
+    "content": "ad0eaa20-7dae-c196-1fbb-2174a488591f",
+    "website": "7-343-network-medicine-using-systems-biology-and-signaling-networks-to-create-novel-cancer-therapeutics-fall-2012"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "329321c3-d747-40fb-8198-8059f3ca00fa",
+  "title": "Course Metadata"
+}
